@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a PhD student, supervised by Amos Storkey, the school of Informatics at Edinburgh University. I am primarily interested in machine learning and more specifically currently focus on designing and analysing systems which learn to perform tasks given an online stream of data.
+Hi, I am a PhD student, supervised by Amos Storkey, the school of Informatics at Edinburgh University. I am primarily interested in machine learning and currently focus on designing and analysing systems which learn to perform tasks given an online stream of data.
 
