@@ -9,7 +9,7 @@
 locale                   : "en-UK"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Thomas Lee"
+name                     : # &name "Thomas Lee"
 description              : &description "personal description"
 url                      : https://Tlee43.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
