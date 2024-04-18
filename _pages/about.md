@@ -22,7 +22,7 @@ For a full list of pulications check out my [google scholar page](https://schola
 **Hyperparameter Selection in Continual Learning** [[paper]](https://arxiv.org/abs/2404.06466)  \
 <u>T. L. Lee,</u> S. P. Hellan, L. Ericsson, E. J. Crowley, A. Storkey. *Pre-print*, 2024.
 
-**Chunking: Forgetting Matters in Continual Learning even without Changing Tasks.** [[paper]](https://arxiv.org/abs/2310.02206) \
+**Chunking: Forgetting Matters in Continual Learning even without Changing Tasks** [[paper]](https://arxiv.org/abs/2310.02206) \
 <u>T. L. Lee,</u> and A. Storkey. *Pre-print*, 2023. 
 
 **On Overcompression in Continual Semantic Segmentation** [[paper]](https://openreview.net/pdf?id=k_XHLBD4qPO) \
