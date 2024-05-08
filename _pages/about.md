@@ -16,14 +16,14 @@ Hi! I am a PhD student, supervised by [Amos Storkey](https://homepages.inf.ed.ac
 
 For a full list of pulications check out my [google scholar page](https://scholar.google.com/citations?user=pRcPv_cAAAAJ&hl=en).
 
+**Chunking: Continual Learning is not just about Distribution Shift** [[paper]](https://arxiv.org/abs/2310.02206) \
+<u>T. L. Lee,</u> and A. Storkey. *CoLLAs*, 2024. 
+
 **Approximate Bayesian Class-Conditional Models under Continuous Representation Shift** [[paper]](https://arxiv.org/abs/2305.19076) \
 <u>T. L. Lee,</u> and A. Storkey. *AISTATS*, 2024.
 
 **Hyperparameter Selection in Continual Learning** [[paper]](https://arxiv.org/abs/2404.06466)  \
 <u>T. L. Lee,</u> S. P. Hellan, L. Ericsson, E. J. Crowley, and A. Storkey. *Pre-print*, 2024.
-
-**Chunking: Forgetting Matters in Continual Learning even without Changing Tasks** [[paper]](https://arxiv.org/abs/2310.02206) \
-<u>T. L. Lee,</u> and A. Storkey. *Pre-print*, 2023. 
 
 **On Overcompression in Continual Semantic Segmentation** [[paper]](https://openreview.net/pdf?id=k_XHLBD4qPO) \
 M. Kowalski, <u>T. L. Lee,</u> and A. Storkey. *Pre-print*, 2022.
