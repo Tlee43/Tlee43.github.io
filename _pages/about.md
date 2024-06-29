@@ -17,7 +17,7 @@ Hi! I am a PhD student, supervised by [Amos Storkey](https://homepages.inf.ed.ac
 For a full list of pulications check out my [google scholar page](https://scholar.google.com/citations?user=pRcPv_cAAAAJ&hl=en).
 
 **Chunking: Continual Learning is not just about Distribution Shift** [[paper]](https://arxiv.org/abs/2310.02206) \
-<u>T. L. Lee,</u> and A. Storkey. *CoLLAs*, 2024. 
+<u>T. L. Lee,</u> and A. Storkey. *CoLLAs*, 2024. (*Oral*) 
 
 **Approximate Bayesian Class-Conditional Models under Continuous Representation Shift** [[paper]](https://arxiv.org/abs/2305.19076) \
 <u>T. L. Lee,</u> and A. Storkey. *AISTATS*, 2024.
