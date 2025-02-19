@@ -16,6 +16,12 @@ Hi! I am a PhD student, supervised by [Amos Storkey](https://homepages.inf.ed.ac
 
 For a full list of pulications check out my [google scholar page](https://scholar.google.com/citations?user=pRcPv_cAAAAJ&hl=en).
 
+**Lightweight Online Adaption for Time Series Foundation Model Forecasts** [[paper]](https://arxiv.org/abs/2502.12920) \
+<u>T. L. Lee*,</u> W. Toner*, R. Singh, A. Joosem, and M. Asenov. *Pre-print*, 2025.
+
+**Performance of Zero-Shot Time Series Foundation Models on Cloud Data** [[paper]](https://arxiv.org/abs/2502.12944) \
+W. Toner*, <u>T. L. Lee*,</u> A. Joosem, R. Singh, and M. Asenov. *Pre-print*, 2025.
+
 **Chunking: Continual Learning is not just about Distribution Shift** [[paper]](https://arxiv.org/abs/2310.02206) \
 <u>T. L. Lee,</u> and A. Storkey. *CoLLAs*, 2024. (*Oral*) 
 
