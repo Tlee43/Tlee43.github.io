@@ -20,7 +20,7 @@ For a full list of pulications check out my [google scholar page](https://schola
 <u>T. L. Lee*,</u> W. Toner\*, R. Singh, A. Joosem, and M. Asenov. *Pre-print*, 2025.
 
 **Performance of Zero-Shot Time Series Foundation Models on Cloud Data** [[paper]](https://arxiv.org/abs/2502.12944) \
-W. Toner\*, <u>T. L. Lee*,</u> A. Joosem, R. Singh, and M. Asenov. *Pre-print*, 2025.
+W. Toner\*, <u>T. L. Lee*,</u> A. Joosem, R. Singh, and M. Asenov. *ICLR, I Can't Believe It's Not Better Workshop*, 2025.
 
 **Chunking: Continual Learning is not just about Distribution Shift** [[paper]](https://arxiv.org/abs/2310.02206) \
 <u>T. L. Lee,</u> and A. Storkey. *CoLLAs*, 2024. (*Oral*) 
