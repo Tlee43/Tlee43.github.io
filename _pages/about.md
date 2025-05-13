@@ -26,7 +26,7 @@ W. Toner\*, <u>T. L. Lee*,</u> A. Joosem, R. Singh, and M. Asenov. \
 
 **Chunking: Continual Learning is not just about Distribution Shift** [[paper]](https://arxiv.org/abs/2310.02206) \
 <u>T. L. Lee,</u> and A. Storkey. \
-**CoLLAs**, 2024. (*Oral*) 
+**CoLLAs**, 2024. **(Oral)**
 
 **Approximate Bayesian Class-Conditional Models under Continuous Representation Shift** [[paper]](https://arxiv.org/abs/2305.19076) \
 <u>T. L. Lee,</u> and A. Storkey. \
