@@ -14,7 +14,7 @@ Hi! I am a PhD student, supervised by [Amos Storkey](https://homepages.inf.ed.ac
 
 ## Publications
 
-For a full list of pulications check out my [google scholar page](https://scholar.google.com/citations?user=pRcPv_cAAAAJ&hl=en).
+For a full list of publications check out my [google scholar page](https://scholar.google.com/citations?user=pRcPv_cAAAAJ&hl=en).
 
 **Lightweight Online Adaption for Time Series Foundation Model Forecasts** [[paper]](https://arxiv.org/abs/2502.12920) \
 <u>T. L. Lee*,</u> W. Toner\*, R. Singh, A. Joosem, and M. Asenov. \
