@@ -10,7 +10,7 @@ redirect_from:
 
 ## About
 
-Hi! I am a PhD student, supervised by [Amos Storkey](https://homepages.inf.ed.ac.uk/amos/), in the school of Informatics at Edinburgh University and I am part of the [Bayesian and Neural Systems group](https://www.bayeswatch.com/). My primary interests are in machine learning, and I currently focus on designing and analysing systems which learn to perform tasks given an online stream of data. Prior to the PhD, I completed a master's and bachelor's in Computer Science at the University of Cambridge.  
+Hi! I am a PhD student, supervised by [Amos Storkey](https://homepages.inf.ed.ac.uk/amos/), in the school of Informatics at Edinburgh University and I am part of the [Bayesian and Neural Systems group](https://www.bayeswatch.com/). My primary interests are in machine learning. I currently focus on designing and analysing deep-learning based systems which learn and increase their knowledge incrementally as they see more and more data. Prior to the PhD, I completed a master's and bachelor's in Computer Science at the University of Cambridge.   
 
 ## Publications
 
