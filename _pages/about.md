@@ -17,7 +17,7 @@ Hi! I am a PhD student, supervised by [Amos Storkey](https://homepages.inf.ed.ac
 For a full list of publications check out my [google scholar page](https://scholar.google.com/citations?user=pRcPv_cAAAAJ&hl=en).
 
 **Forgetting is Everywhere** [[paper]](https://arxiv.org/abs/2511.04666) \
-B. Santani, <u>T. L. Lee,</u> T. McInroe, A. Scannell, N. Malkin, D. Abel, and A. Storkey. \
+B. Sanati, <u>T. L. Lee,</u> T. McInroe, A. Scannell, N. Malkin, D. Abel, and A. Storkey. \
 **Pre-print**, 2025.
 
 **Lightweight Online Adaption for Time Series Foundation Model Forecasts** [[paper]](https://arxiv.org/abs/2502.12920) \
