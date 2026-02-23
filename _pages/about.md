@@ -16,6 +16,10 @@ Hi! I am a PhD student, supervised by [Amos Storkey](https://homepages.inf.ed.ac
 
 For a full list of publications check out my [google scholar page](https://scholar.google.com/citations?user=pRcPv_cAAAAJ&hl=en).
 
+**Signature-Kernel Based Evaluation Metrics for Robust Probabilistic and Tail-Event Forecasting** [[paper]](https://arxiv.org/abs/2602.10182) \
+B. R. Redhead, <u>T. L. Lee,</u> P. Gu, V. Elvira, and A. Storkey. \
+**Pre-print**, 2025.
+
 **Forgetting is Everywhere** [[paper]](https://arxiv.org/abs/2511.04666) \
 B. Sanati, <u>T. L. Lee,</u> T. McInroe, A. Scannell, N. Malkin, D. Abel, and A. Storkey. \
 **Pre-print**, 2025.
