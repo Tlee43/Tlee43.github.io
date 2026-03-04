@@ -17,7 +17,7 @@ Hi! I am a PhD student, supervised by [Amos Storkey](https://homepages.inf.ed.ac
 For a full list of publications check out my [google scholar page](https://scholar.google.com/citations?user=pRcPv_cAAAAJ&hl=en).
 
 **Adapting Time Series Foundation Models through Data Mixtures** [[paper]](https://arxiv.org/abs/2603.02840) \
-<u>T. L. Lee,</u>, E. M. Ponti, and A. Storkey. \
+<u>T. L. Lee,</u> E. M. Ponti, and A. Storkey. \
 **Pre-print**, 2026.
 
 **Signature-Kernel Based Evaluation Metrics for Robust Probabilistic and Tail-Event Forecasting** [[paper]](https://arxiv.org/abs/2602.10182) \
