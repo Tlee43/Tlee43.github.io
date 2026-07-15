@@ -26,7 +26,7 @@ B. R. Redhead, <u>T. L. Lee,</u> P. Gu, V. Elvira, and A. Storkey. \
 
 **Forgetting is Everywhere** [[paper]](https://arxiv.org/abs/2511.04666) \
 B. Sanati, <u>T. L. Lee,</u> T. McInroe, A. Scannell, N. Malkin, D. Abel, and A. Storkey. \
-**CoLLAs**, 2025.
+**CoLLAs**, 2026.
 
 **Lightweight Online Adaption for Time Series Foundation Model Forecasts** [[paper]](https://arxiv.org/abs/2502.12920) \
 <u>T. L. Lee*,</u> W. Toner\*, R. Singh, A. Joosem, and M. Asenov. \
