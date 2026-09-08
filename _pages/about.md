@@ -12,7 +12,7 @@ redirect_from:
 
 Hi! I am a postdoc working on continual learning, decision making and time series forecasting. I work at Mila in the [Chandar Research Lab](https://chandar-lab.github.io/), supervised by [Sarath Chandar](https://sarathchandar.in/). I love to think about problems from a fundamental perspective, often starting from analysing a problem using Bayesian statistics and decision theory, then using these insights gained to propose practical algorithmic improvements. I am also very interested in boundedness and how it effects decision making. 
 
-Before my postdoc I did a PhD supervised by [Amos Storkey](https://homepages.inf.ed.ac.uk/amos/), at Edinburgh University in the [Bayesian and Neural Systems group](https://www.bayeswatch.com/).  Prior to the PhD, I completed a master's and bachelor's in Computer Science at the University of Cambridge.   
+Before my postdoc, I did a PhD supervised by [Amos Storkey](https://homepages.inf.ed.ac.uk/amos/) at Edinburgh University in the [Bayesian and Neural Systems group](https://www.bayeswatch.com/).  Prior to the PhD, I completed a master's and bachelor's in Computer Science at the University of Cambridge.   
 
 
 ## Publications
