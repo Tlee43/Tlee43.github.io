@@ -25,7 +25,7 @@ For a full list of publications check out my [google scholar page](https://schol
 
 **Signature-Kernel Based Evaluation Metrics for Robust Probabilistic and Tail-Event Forecasting** [[paper]](https://arxiv.org/abs/2602.10182) \
 B. R. Redhead, <u>T. L. Lee,</u> P. Gu, V. Elvira, and A. Storkey. \
-**NeurIPS, Dataset and Benchmarks Track**, 2026.
+**NeurIPS, Evaluations and Datasets Track**, 2026.
 
 **Forgetting is Everywhere** [[paper]](https://arxiv.org/abs/2511.04666) \
 B. Sanati, <u>T. L. Lee,</u> T. McInroe, A. Scannell, N. Malkin, D. Abel, and A. Storkey. \
